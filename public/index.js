@@ -2,9 +2,9 @@ import React, { useEffect } from "react"
 import { useDispatch, useSelector } from "react-redux";
 import { auth } from "../firebase";
 import { login, logout, selectUser } from "../store/userSlice";
-import HomeScreen from "./HomeScreen";
-import LoginScreen from "./LoginScreen"
-import SignInScreen from "./SignInScreen";
+import HomeScreen from "../pages/HomeScreen";
+import LoginScreen from "../pages/LoginScreen"
+import SignInScreen from "../pages/SignInScreen";
 
 export default function Home() {
 
