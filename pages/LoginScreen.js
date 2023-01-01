@@ -25,7 +25,7 @@ function LoginScreen() {
             
             <div className='z-10 p-5 absolute top-1/3 ml-auto mr-auto left-0 right-0 text-center'>
             <h1 className='mb-5 text-6xl'>
-                Let's watch some films bitches
+                Let's watch some films
             </h1>
             <div className='m-4'>
                 <form className=''>

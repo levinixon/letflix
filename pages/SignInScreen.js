@@ -36,7 +36,7 @@ function SignInScreen() {
   return (
     <div className='max-w-xs p-8 m-auto bg-black rounded-md'>
         <form className='grid flex-col'>
-            <h1 className='font-bold mb-5 text-left text-xl'>Sign In Bitches</h1>
+            <h1 className='font-bold mb-5 text-left text-xl'>Sign In</h1>
             <input className='h-8 mb-4 bg-white pt-5 pb-5 pl-4 pr-4 text-black rounded-md' 
             type="Email" 
             placeholder='Email'
